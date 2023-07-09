@@ -5,16 +5,16 @@
     "type": "minecraft:ender_dragon",
     "distance": {
       "x": {
-        "min": -100,
-        "max": 100
+        "min": -200,
+        "max": 200
       },
       "y": {
         "min": 0,
         "max": 256
       },
       "z": {
-        "min": -100,
-        "max": 100
+        "min": -200,
+        "max": 200
       }
     }
   }
