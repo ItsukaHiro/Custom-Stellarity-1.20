@@ -10,9 +10,9 @@
 		"salt": 278609929,
 		"exclusion_zone": {
 			"other_set": "stellarity:village",
-			"chunk_count": 10
+			"chunk_count": 12
 		},
-		"spacing": 16,
+		"spacing": 32,
 		"separation": 9
 	}
 }
