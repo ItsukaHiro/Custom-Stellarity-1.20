@@ -49,7 +49,7 @@
 						},
 						{
 							"function": "minecraft:set_nbt",
-							"tag": "{CustomModelData:90000,stellarity.special_item:\"ancient_armor\",display:{color:2},HideFlags:64,stellar_durability:{enabled:1b,max_dur:528}}"
+							"tag": "{CustomModelData:90000,stellarity.special_item:\"ancient_armor\",display:{color:20},HideFlags:64,stellar_durability:{enabled:1b,max_dur:528}}"
 						},
 						{
 							"function": "minecraft:set_attributes",
